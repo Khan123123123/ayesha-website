@@ -3,7 +3,7 @@ import { Navigation } from './components/Navigation';
 import { Footer } from './components/Footer';
 import { HomePage } from './pages/HomePage';
 import { AboutPage } from './pages/AboutPage';
-// import { ProjectsPage } from './pages/ProjectsPage'; // <-- CHANGED: This line is commented out
+import { ProjectsPage } from './pages/ProjectsPage';
 import { SpeakingPage } from './pages/SpeakingPage';
 import { MediaPage } from './pages/MediaPage';
 import { BlogPage } from './pages/BlogPage';
@@ -18,7 +18,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/about" element={<AboutPage />} />
-            {/* <Route path="/projects" element={<ProjectsPage />} /> */} {/* <-- CHANGED: This line is commented out */}
+            <Route path="/projects" element={<ProjectsPage />} />
             <Route path="/speaking" element={<SpeakingPage />} />
             <Route path="/media" element={<MediaPage />} />
             <Route path="/blog" element={<BlogPage />} />

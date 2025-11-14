@@ -11,7 +11,7 @@ export function Navigation() {
   const navLinks = [
     { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
-    // { href: '/projects', label: 'Projects' }, // <-- CHANGED: This line is commented out
+    { href: '/projects', label: 'Projects' },
     { href: '/speaking', label: 'Speaking' },
     { href: '/media', label: 'Media' },
     { href: '/blog', label: 'Blog' },
