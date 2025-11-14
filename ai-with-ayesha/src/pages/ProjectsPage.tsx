@@ -173,7 +173,7 @@ export function ProjectsPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://instagram.com/aiwithayesha"
+                href="https://instagram.com/ai_with_ayesha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-primary-500 text-white rounded-sm font-semibold hover:bg-primary-600 transition-colors"
@@ -181,7 +181,7 @@ export function ProjectsPage() {
                 Follow on Instagram
               </a>
               <a
-                href="https://www.youtube.com/@aiwithayesha"
+                href="https://www.youtube.com/@ai_with_ayesha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-white/40 text-neutral-900 border border-white/40 rounded-sm font-semibold hover:bg-white/50 transition-colors"
