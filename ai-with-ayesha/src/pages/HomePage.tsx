@@ -215,7 +215,7 @@ export function HomePage() {
                 <div className="text-center space-y-4">
                   <div className="text-4xl">🎬</div>
                   <p className="text-neutral-700">
-                    Interview video will be embedded here
+                   
                   </p>
                   <Button variant="primary" asChild>
                     <a 
