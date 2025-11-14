@@ -8,6 +8,7 @@ export function ContactPage() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
+    phone: '',
     organization: '',
     purpose: 'talk',
     message: '',
