@@ -65,7 +65,7 @@ export function HomePage() {
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <Button size="lg" asChild>
                   <a 
-                    href="https://www.youtube.com/@aiwithayesha" 
+                    href="https://www.youtube.com/@ai_with_ayesha" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
@@ -130,7 +130,7 @@ export function HomePage() {
           <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
             {/* YouTube */}
             <a 
-              href="https://www.youtube.com/@aiwithayesha" 
+              href="https://www.youtube.com/@ai_with_ayesha" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group"
@@ -219,7 +219,7 @@ export function HomePage() {
                   </p>
                   <Button variant="primary" asChild>
                     <a 
-                      href="https://www.youtube.com/@aiwithayesha" 
+                      href="https://www.youtube.com/@ai_with_ayesha" 
                       target="_blank" 
                       rel="noopener noreferrer"
                     >
