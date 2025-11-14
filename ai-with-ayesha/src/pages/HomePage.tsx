@@ -219,7 +219,7 @@ export function HomePage() {
                   </p>
                   <Button variant="primary" asChild>
                     <a 
-                      href="https://www.youtube.com/@ai_with_ayesha" 
+                      href="https://youtu.be/k1_R8qlMRU8?si=mwQMCc8B_awNBe3R" 
                       target="_blank" 
                       rel="noopener noreferrer"
                     >
