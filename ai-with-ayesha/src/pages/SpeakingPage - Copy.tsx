@@ -137,6 +137,42 @@ export function SpeakingPage() {
         </div>
       </section>
 
+      {/* Past Speaking */}
+      <section className="py-12 md:py-24 bg-gradient-hero">
+        <div className="container mx-auto px-4">
+          <h2 className="text-3xl md:text-h2 font-semibold text-neutral-900 text-center mb-12">
+            Past Presentations
+          </h2>
+          <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+            <GlassCard className="p-6 space-y-4">
+              <img
+                src="/images/professional_tech_presentations_2.jpeg"
+                alt="Roots International presentation"
+                className="w-full h-48 object-cover rounded-lg"
+              />
+              <h3 className="text-xl font-semibold text-neutral-900">
+                Roots International School
+              </h3>
+              <p className="text-neutral-700">
+                Delivered a 45-minute presentation on AI fundamentals and practical applications for students
+              </p>
+            </GlassCard>
+            <GlassCard className="p-6 space-y-4">
+              <img
+                src="/images/professional_tech_presentations_1.png"
+                alt="STEM Expo"
+                className="w-full h-48 object-cover rounded-lg"
+              />
+              <h3 className="text-xl font-semibold text-neutral-900">
+                STEM Expo & Events
+              </h3>
+              <p className="text-neutral-700">
+                Multiple presentations at STEM exhibitions showcasing AI projects and demonstrating technology
+              </p>
+            </GlassCard>
+          </div>
+        </div>
+      </section>
 
       {/* CTA Section */}
       <section className="py-12 md:py-24">
