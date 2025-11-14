@@ -7,7 +7,7 @@ import { Sparkles, Users, Presentation, Code, Award, Trophy, Instagram, Youtube,
 export function HomePage() {
   const highlights = [
     { icon: Award, label: 'Age 11', description: 'Young AI Creator' },
-    { icon: Trophy, label: 'SkillBridge AI', description: 'Special Admission' },
+    { icon: Trophy, label: 'AI SkillBridge', description: 'Special Admission' },
     { icon: Users, label: 'COMPEC EAP', description: 'NUST SEECS Program' },
     { icon: Presentation, label: 'STEM Expo', description: 'Multiple Presentations' },
     { icon: Code, label: '10+ Projects', description: 'AI & Tech Portfolio' },
