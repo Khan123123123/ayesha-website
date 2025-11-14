@@ -47,7 +47,7 @@ export function SpeakingPage() {
     {
       icon: Languages,
       title: 'Languages',
-      details: 'English + Urdu',
+      details: 'English',
     },
   ];
 

@@ -113,7 +113,7 @@ export function ContactPage() {
                     onChange={handleChange}
                     required
                     className="w-full h-14 px-4 bg-white/30 backdrop-blur-[8px] border border-white/25 rounded-sm text-neutral-900 placeholder:text-neutral-500 focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500/20 transition-all"
-                    placeholder="your.email@example.com"
+                    placeholder="sehrishva@gmail.com"
                   />
                 </div>
 

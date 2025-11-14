@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js';
 
-const supabaseUrl = "https://fzwvwbxsuldkwatcktut.supabase.co";
-const supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ6d3Z3YnhzdWxka3dhdGNrdHV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjMwODkwNjIsImV4cCI6MjA3ODY2NTA2Mn0.3U1FF2DZ9Z2D1SBsXvaE3CjKjzngkD_2oukDxGI2EE8";
+const supabaseUrl = "https://fzwvwbxsuldkwatcktut.supabase.co/functions/v1/contact-form-submit";
+const supabaseAnonKey = "ba81f180f20134218db62b88b68532e72eac5adeb7064bc1b98c3ec61d7991f2";
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey);
